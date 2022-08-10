@@ -1,4 +1,4 @@
- Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning statistics and insurance science at uni.
